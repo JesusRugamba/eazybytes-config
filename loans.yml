@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Rugamba Jesus - Developer"
+    email: "rugambajesus@gmail.com"
+  onCallSupport:
+    - (+250) 783719005
+    - (+250) 788877943

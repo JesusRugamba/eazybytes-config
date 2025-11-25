@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Kalinda Viateur - QA Lead"
+    email: "kalindaviateur@gmail.com"
+  onCallSupport:
+    - (+250) 783719005
+    - (+250) 788877943
