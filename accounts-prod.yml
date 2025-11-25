@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs"
   contactDetails:
     name: "Kalinda Viateur - Senior software developer"
-    email: "kalindaviateur@gmail.com"
+    email: "{cipher}e02cc54e3c2d6d54c6c2cc810b433dd2f3b50e9110ea1c2a10f22d6acd810c60e0f5d0f3285f523b1b90f0c049cc2801"
   onCallSupport:
     - (+250) 783719005
     - (+250) 788877943
