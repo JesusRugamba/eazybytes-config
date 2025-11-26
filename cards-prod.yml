@@ -1,11 +1,11 @@
 build:
-  version: "1.0"
+  version: "{cipher}5823e3ed0f1c114dd9f66c18be19d74323f8c11c03a3f00ca9b0183fe1acc6dd"
 
 cards:
-  message: "Welcome to EazyBank cards related PROD APIs"
+  message: "{cipher}79603ec464ffdaefb41d5b612d101b49b12f3204bfa758917c6fb0f813f422428c1554636a4cdaa5dfd0cfcee20da074202aa6a97c8de807347ebb7db24f59d6"
   contactDetails:
-    name: "Kalinda Viateur - Senior software developer"
-    email: "kalindaviateur@gmail.com"
+    name: "{cipher}d782e08308dbbeb0341b02541a5cdea2f794629f0bf14f8311c07b1d8574032ca54523cc0e8e144a0393d6ef105d5ac4aa86664075be415c97a052a5d98a2e96"
+    email: "{cipher}db24923c9044d01bd9ba694e3d413bf4921cdd741c1064d0ff005b4cd6427fee4069cf3b7e41c755109eb2f049d26da4"
   onCallSupport:
-    - (+250) 783719005
-    - (+250) 788877943
+    - "{cipher}14745706ad84c247002035a47e2fef3b97ac0a7c42a0c9307cb083819bba5b2fe49cb6771be5c5a81a07e21b2dc152a9"
+    - "{cipher}d03dbf050f94695d9448cffa862547cf1514f902a79bfd0789d4e5384daa58a5cc909597002a1a333c6422e0e4dbed28"

@@ -1,10 +1,10 @@
 build:
-  version: "3.0"
+  version: "{cipher}840ed17c663a26aa3cea8b319553d54008a63e4314e48de9549e120d56f6d324"
 cards:
-  message: "Welcome to EazyBank cards related local APIs"
+  message: "{cipher}342e42159a0786622a1934e5f9b6bfc8fa165da5572a4240bda5661e2a91b214d76e35fe37ffc3fb6a43cbcc148ade7679d063f9a174ee7f21d9bf18c1a23035"
   contactDetails:
-    name: "Rugamba Jesus - Developer"
-    email: "rugambajesus@gmail.com"
+    name: "{cipher}fc60254bbd809b0e1f7b40aa00fe7ffc4f97c8d9d29206e04a1126c5f93fe9c20c46c44bffb26407d736cacaa0d29653"
+    email: "{cipher}53a973f0531f399813b800db2c7567f2a06bf6d3b07bb147ecffc430d7c7c660a53a7d92aa5a5663de2be3c77470f7bd"
   onCallSupport:
-      - (+250) 783719005
-      - (+250) 788877943
+    - "{cipher}14745706ad84c247002035a47e2fef3b97ac0a7c42a0c9307cb083819bba5b2fe49cb6771be5c5a81a07e21b2dc152a9"
+    - "{cipher}d03dbf050f94695d9448cffa862547cf1514f902a79bfd0789d4e5384daa58a5cc909597002a1a333c6422e0e4dbed28"

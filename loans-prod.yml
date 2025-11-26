@@ -1,10 +1,10 @@
 build:
-  version: "1.0"
+  version: "{cipher}cb0b833bd6f1a70280d76a2f6709aacc4bb215bb5feb8257f62018a9171905a0"
 loans:
-  message: "Welcome to EazyBank loans related PROD APIs"
+  message: "{cipher}7f9dee083e13258374f6e4c33c53b171c97cfb51c5b11fe212652e97fc8518b821fddcf7e6f9ee642d1dcb3f50cef8c2806170dac3602a3e9cf79ec5b106fffa"
   contactDetails:
-    name: "Kalinda Viateur - Senior software developer"
-    email: "kalindaviateur@gmail.com"
+    name: "{cipher}cccbbef0ff2961ef9f7c5b233928fdc788c8614aadcf05674c15caaefb9aa3a5acc6d3bfa158ef9e2d0ac715711f6b42f7d701b63c1100e30703945e939ddb3a"
+    email: "{cipher}255af06f318cce8e22291be1d33b1acb0d47592f21d529b979382df256373d2036d4a4c779e955b162b902cebdf3aa0b"
   onCallSupport:
-   - (+250) 783719005
-   - (+250) 788877943
+    - "{cipher}14745706ad84c247002035a47e2fef3b97ac0a7c42a0c9307cb083819bba5b2fe49cb6771be5c5a81a07e21b2dc152a9"
+    - "{cipher}d03dbf050f94695d9448cffa862547cf1514f902a79bfd0789d4e5384daa58a5cc909597002a1a333c6422e0e4dbed28"

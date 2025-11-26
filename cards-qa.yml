@@ -1,10 +1,10 @@
 build:
-  version: "1.0"
+  version: "{cipher}7a59b08b5790a88dca45808346ecae2032f275c0c67f17c8d83d03f859b9d965"
 cards:
-  message: "Welcome to EazyBank cards related QA APIs"
+  message: "{cipher}a054a75808972d22a0dda7d2b6eb6f3e4dea4566e37bb4dc9d41151cfb1a6c3c38cc319681967c3711efc17902061c3d8e65541abe779c395495a872c3aedecb"
   contactDetails:
-    name: "Kalinda Viateur - QA Lead"
-    email: "kalindaviateur@gmail.com"
+    name: "{cipher}1faa7a182f4833825bdaa9df9040224aef2d604f2bd8f86faa89ee009964d4533168c3c163ef291daa4f80e5351cc050"
+    email: "{cipher}0bf7813a962053127e6864e489c4aacb981b13207e3c6998ca0df1b8689bd62aa02f8533608e6447e628f64aa7a826f7"
   onCallSupport:
-    - (+250) 783719005
-    - (+250) 788877943
+    - "{cipher}14745706ad84c247002035a47e2fef3b97ac0a7c42a0c9307cb083819bba5b2fe49cb6771be5c5a81a07e21b2dc152a9"
+    - "{cipher}d03dbf050f94695d9448cffa862547cf1514f902a79bfd0789d4e5384daa58a5cc909597002a1a333c6422e0e4dbed28"

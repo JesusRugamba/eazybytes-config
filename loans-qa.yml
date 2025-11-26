@@ -1,10 +1,10 @@
 build:
-  version: "2.0"
+  version: "{cipher}2d41aae034c515b9c81ab1949c48a93cf893fc07866c8a8f27188187c4e0070f"
 loans:
-  message: "Welcome to EazyBank loans related QA APIs"
+  message: "{cipher}dd0ab93698001f07a8a3df6af6e758e8f5d8219e85b415797501937a14c829712bdc372a0d141cd78d355448b0519f875ff3ac2e0c1fed31891a3741f2e9cf45"
   contactDetails:
-    name: "Kalinda Viateur - QA Lead"
-    email: "kalindaviateur@gmail.com"
+    name: "{cipher}a781cbc40741709f396759598736a1111cc48e897e94111de781e0d6525888fff285b003ee92c232283e330ebc66fedc"
+    email: "{cipher}cb14829a64f5f26b6ae68e755c973cb3bb0d0f6de1ba86be112fac1e953808e1c2fbbe0f85ae95d0546ed73a867c4bb6"
   onCallSupport:
-    - (+250) 783719005
-    - (+250) 788877943
+    - "{cipher}14745706ad84c247002035a47e2fef3b97ac0a7c42a0c9307cb083819bba5b2fe49cb6771be5c5a81a07e21b2dc152a9"
+    - "{cipher}d03dbf050f94695d9448cffa862547cf1514f902a79bfd0789d4e5384daa58a5cc909597002a1a333c6422e0e4dbed28"
